@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+#
+#pprint
+#requests
+#redis # (redis-py) - The Python interface to the Redis key-value store.
+#celery
+#flask
+#pickle # (only for Python2) - for Python3, pickle comes as standard library.
+pygame
+yaml

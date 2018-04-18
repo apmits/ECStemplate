@@ -1,0 +1,12 @@
+---
+player :
+    Velocity   :
+        - x : 0
+        - y : 0
+    Renderable :
+        - image : "assets/imgs/redsquare.png"
+        - posx  : 100
+        - posy  : 100
+    Clickable:
+        - to_function : "xoxoxo"
+        - is_selectable

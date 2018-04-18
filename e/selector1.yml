@@ -1,0 +1,4 @@
+---
+selector :
+    Renderable :
+        - image : "assets/imgs/box.png"

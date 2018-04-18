@@ -1,0 +1,6 @@
+---
+enemy :
+    Renderable :
+        - image : "assets/imgs/bluesquare.png"
+        - posx  : 400
+        - posy  : 250

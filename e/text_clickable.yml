@@ -1,0 +1,8 @@
+---
+sample_text :
+    Printable :
+        - x : 20
+        - y : 100
+        - text : "this is CLICKABLE text."
+    Clickable :
+        - to_function : "clicky_texty_function"

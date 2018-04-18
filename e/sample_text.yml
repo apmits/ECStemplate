@@ -1,0 +1,6 @@
+---
+sample_text :
+    Printable :
+        - x : 10
+        - y : 50
+        - text : "this is a sample text."

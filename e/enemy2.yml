@@ -1,0 +1,8 @@
+---
+enemy2 :
+    Renderable :
+        - image : "assets/imgs/greensquare.png"
+        - posx  : 40
+        - posy  : 150
+    Clickable:
+        - to_function : "lalala"
